@@ -1,14 +1,7 @@
 # Hand-Cricket-Game
 A fun text-based Hand Cricket game in Python.
 
-Here’s a simple **README.md** draft for your Hand Cricket game repo 👇
-
 ---
-
-# 🏏 Hand Cricket (Python CLI Game)
-
-A fun **Hand Cricket** game you can play against the computer in your terminal.
-Inspired by the classic hand cricket game kids play, but now coded in Python!
 
 ---
 
